@@ -1,5 +1,6 @@
 # Changelog
 
+
 ## [master](https://github.com/dundalek/closh/compare/v0.4.1...master) (unreleased)
 
 ### New features
